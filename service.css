@@ -1,0 +1,41 @@
+{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{font-family: arial, sans-serif;
+line-height: 1.6;
+background-color:lightblue;
+}
+.lol{
+	color: orange
+}
+.lal{
+	color: darkblue
+}
+.lil{
+	color: green
+}
+.lul{
+	color: red
+}
+.lii{
+	color:yellow
+}
+.police{
+	color: red
+}
+.ale{
+	color: green
+}
+.ola{
+	color: darkblue
+}
+.ili{
+	color: rgb(219, 27, 210)
+}
+.eee{
+	color: darkblue
+}
+.eee{
+	background-color: yellow
+}

@@ -1,0 +1,72 @@
+{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{font-family: arial, sans-serif;
+line-height: 1.6;
+background-color:lightblue;
+color: black;
+ }
+ header{background-color: blue;
+ 	color:black;
+ 	padding: 1rem 0;
+ 	text-align: center;
+ }
+ header.logo{width: 100px;
+ }
+ nav ul{ list-style: none; 
+ }
+ .hero{background-image: url'../images/banner.jpg');
+background-size:cover;
+background-position: center;
+color:black;
+text-align: center;
+padding: 5rem 0;
+ }
+ .hero h1{ font-size: 3rem; }
+ .hero p{
+ 	font: 1.2rem;
+ 	margin: 1rem 0;
+ }
+ .btn{
+ 	background-color: green;
+ 	color: black ;
+ 	padding: 0.5rem 1rem;
+ 	text-decoration: none;
+  border-radius:5px;
+
+ }
+ .content{
+ 	padding: 2rem;
+ 	text-align: center;
+ 	 }
+ 	footer {
+ 		background-color: purple;
+ 		text-align: center;
+ 	padding: 0rem 0;
+ 	margin-top: 0rem
+ }
+.hhh{
+	background-color: white;
+}
+.nnn{
+	background-color: white;
+	color: black;
+}
+.nnn{
+	
+	color: rgb(221, 12, 12);
+}
+.mmm{
+	color: black;
+}
+.content{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 20vh; 
+}
+.bel{
+	color: blue
+	font-size:50px;
+}
